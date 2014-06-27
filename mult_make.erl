@@ -1,5 +1,5 @@
 %============================================================================
-% Filename		: m.erl
+% Filename		: mult_make.erl
 % Description	: 编译函数类
 % Author		: Wang, Xiong
 % Email			: xiongwang@live.com
