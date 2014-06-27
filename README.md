@@ -1,4 +1,4 @@
-multithread_make
+multprocess_make
 ================
 
-a multi tread make script for building erlang project
+compiling tool for building erlang project with multi processes 
